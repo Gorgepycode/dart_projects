@@ -1,4 +1,6 @@
-const global = 'Hello, world';
+// global scope 
+const global = 'Hello, world'; // top-level variable 
+
 
 void main() {
   const local = 'Hello, world';
